@@ -1,0 +1,25 @@
+Corporate-Prompt-Engineering-Knowledge-Base/
+│
+├── README.md
+│
+├── Prompts/
+│   ├── Corporate.md
+│   ├── PersonalCreative.md
+│   ├── Entertainment.md
+│   └── PersonalBusiness.md
+│
+├── Playbook/
+│   └── PromptEngineeringPlaybook.md
+│
+├── Examples/
+│   ├── CorporateExamples.md
+│   ├── CreativeExamples.md
+│   ├── EntertainmentExamples.md
+│   └── PersonalBusinessExamples.md
+│
+└── Templates/
+    ├── MOMTemplate.md
+    ├── CascadePlanTemplate.md
+    ├── SOPTemplate.md
+    ├── CorporateEmailRewriteTemplate.md
+    └── PromptingChecklist.md
